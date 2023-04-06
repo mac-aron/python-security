@@ -3,7 +3,7 @@ Exploring security tools in Python3 using the standard Python library and `crypt
 
 ## How to run?
 1. Open the working directory in terminal
-2. Run python3 taskX.py
+2. Run `python3 taskX.py`
 
 ## Task descriptions
 See `spec.pdf` for full task descriptions.</br>
